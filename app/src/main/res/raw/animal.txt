@@ -1,0 +1,182 @@
+horseÂí 
+mareÄ¸Âí 
+colt,foalÂí¾Ô,Ğ¡Âí 
+pony°«Âí 
+thoroughbred´¿ÖÖÂí 
+mustangÒ°Âí 
+muleÂâ 
+ass,donkeyÂ¿ 
+oxÅ£ 
+buffaloË®Å£ 
+bull¹«Å£ 
+cowÄ¸Å£ 
+calfĞ¡Å£,Å£¶¿ 
+bullock,steerĞ¡ÑËÅ£ 
+heiferĞ¡Ä¸Å£ 
+pig,swineÖí 
+boarÖÖÖí 
+hogÑËÖí,·ÊÖí 
+giltĞ¡Ä¸Öí 
+pigletÖíáÌ 
+sheepÑò 
+eweÄ¸Ñò 
+goatÉ½Ñò 
+lambÑò¸á,¸áÑò 
+zebra°ßÂí 
+antilopeÁçÑò 
+gazelleĞ¡ÁçÑò 
+deerÂ¹ 
+reindeerÑ±Â¹ 
+giraffe³¤¾±Â¹ 
+camelÂæÍÕ 
+dromedaryµ¥·åÍÕ 
+llama´óÑòÍÕ 
+guanacoÔ­ÍÕ 
+alpacaÑòÍÕ 
+vicunaĞ¡ÑòÍÕ 
+elephantÏó 
+rhinocerosÏ¬Å£ 
+hippopotamusºÓÂí 
+catÃ¨ 
+tabby,she-cat,grimalkin´ÆÃ¨ 
+tomcatĞÛÃ¨,¹«Ã¨ 
+kitten,kitty,pussyĞ¡Ã¨ 
+lionÊ¨ 
+lynxâ¦áû 
+panther,pumaÃÀÖŞ±ª 
+leopard±ª 
+tiger»¢ 
+wildcatÒ°Ã¨ 
+bisonÃÀÖŞÒ°Å£ 
+yakêóÅ£ 
+dog¹· 
+badgerâµ 
+weasel÷ø,»ÆÊóÀÇ 
+otterË®Ì¡ 
+foxºü 
+hyena,hyaena÷à¹· 
+wolfÀÇ 
+squirrelËÉÊó 
+dormouseË¯Êó 
+beaverºÓÀê 
+marmotÍÁ²¦Êó 
+ferretÑ©õõ 
+bearĞÜ 
+rabbitÍÃ×Ó 
+hareÒ°ÍÃ 
+ratÊó 
+mouse¼ÒÊó 
+voleÌïÊó 
+monkeyºï×Ó 
+chimpanzeeºÚĞÉĞÉ 
+gorilla´óĞÉĞÉ 
+orangutanĞÉĞÉ 
+gibbon³¤±ÛÔ³ 
+slothÌ¡ºï 
+duckbill,platypusÑ¼×ìÊŞ 
+kangaroo´üÊó 
+koala¿¼À­,Ê÷´üĞÜ 
+hedgehog´Ìâ¬ 
+porcupine¼ıÖí,ºÀÖí 
+batòùòğ 
+armadilloáìáü 
+whale¾¨ 
+dolphinºÓëà 
+porpoise´óÎ÷ÑóÊóº£ëà 
+sealº£±ª 
+walrusº£Ïó 
+eagleÓ¥ 
+baldeagle°×Í·Ó¥ 
+condorÍºÓ¥ 
+hawk,falconöÀ 
+heron²ÔÓ¥ 
+goldeneagleğÕ 
+kiteğÎ 
+vultureÍºğÕ 
+cock¹«¼¦ 
+henÄ¸¼¦ 
+chicken¼¦,³û¼¦ 
+guinea,fowlÕäÖé¼¦ 
+turkey»ğ¼¦ 
+peacock¿×È¸ 
+duckÑ¼ 
+mallardÒ°Ñ¼,Ùì 
+tealĞ¡Ò°Ñ¼ 
+gannetÌÁ¶ì 
+goose¶ì 
+pelicanğÃğÉ 
+cormorantğµğË 
+swanÌì¶ì 
+cobĞÛÌì¶ì 
+cygnetĞ¡Ìì¶ì 
+gander,wildgooseÑã 
+dove¸ë 
+pigeonÒ°¸ë 
+turtledove°ßğ¯ 
+pheasantïô,Ò°¼¦ 
+grouseËÉ¼¦ 
+partridgeÊ¯¼¦,ğÑğ³ 
+ptarmiganÀ×Äñ 
+quailğÆğÈ 
+ostrichÍÒÄñ 
+storkğÙ 
+woodcockÉ½ğÖ 
+snipeğÖ 
+gull,seagullº£Å¸ 
+albatrossĞÅÌìÎÌ 
+kingfisher´äÄñ 
+birdofparadise¼«ÀÖÄñ,ÌìÌÃÄñ 
+woodpecker×ÄÄ¾Äñ 
+parrotğĞğÄ 
+cockatoo´ó¿û»¨ğĞğÄ 
+macaw½ğ¸ÕğĞğÄ 
+parakeet³¤Î²ğĞğÄ 
+cuckoo¶Å¾é,²¼¹ÈÄñ 
+crowÎÚÑ» 
+blackbirdÎÚğ´ 
+magpieÏ²Èµ 
+swallowÑà×Ó 
+sparrowÂéÈ¸ 
+nightingaleÒ¹İº 
+canary½ğË¿È¸ 
+starling°Ë¸ç 
+thrush»­Ã¼ 
+goldfinch½ğ³áÈ¸ 
+chaffinch²ÔÍ·ÑàÈ¸ 
+robinÖª¸üÄñ 
+ploverÇ§Äñ 
+lark°ÙÄñ,ÔÆÈ¸ 
+swiftºÖÓêÑà 
+whitethroat°×ºíÈ¸ 
+hummingbird·äÈ¸ 
+penguinÆó¶ì 
+owlèÉ,Ã¨Í·Ó¥ 
+scopsowl½ÇèÉ,¶úÄñ 
+snakeÉß 
+viper òñÉß 
+boa ÍõÉß 
+cobra ÑÛ¾µÉß 
+copperhead ÃÀÖŞ¸¹Éß 
+coralsnake Òø»·Éß 
+grasssnake ²İÉß 
+moccasin ÊÈÓãÉß 
+python òşÉß 
+rattlesnake ÏìÎ²Éß 
+lizard òáòæ 
+tuatara ¹Åòáòæ 
+chameleon ±äÉ«Áú,±ÜÒÛ 
+iguana ÷àòá 
+walllizard ±Ú»¢ 
+salamander òîó¢ 
+giantsalamander ÍŞÍŞÓã,öò 
+crocodile öùÓã,·ÇÖŞöù 
+alligator ¶ÌÎÇöù,ÃÀÖŞöù 
+caiman ¿­ÃÅöù 
+gavial Ó¡¶Èöù 
+turtle ¹ê 
+tortoise çéè£ 
+seaturtle º£¹ê 
+frog ÇàÍÜ 
+bullfrog Å£ÍÜ 
+dog ¹·
+puppy Ğ¡¹·

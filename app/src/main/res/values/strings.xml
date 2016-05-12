@@ -1,0 +1,364 @@
+<resources>
+    <string name="app_name">草泥马词典</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dictionary">Dictionary</string>
+    <string name="title_activity_word">Word</string>
+    <string name="title_activity_sentence">Sentence</string>
+    <string name="title_activity_raword">Raword</string>
+    <string name="title_activity_rawtest">Rawtest</string>
+    <string name="title_activity_about">About</string>
+    <string name="s1">1.主—动—补结构(SVC)。
+
+　　\n此种结构中的动词皆是连系动词。连系动词带有的主语补语可以是名词词组。形容词词组。介词词组。非限定动词词组或名词性分句等。例如:
+　　\nThe twin are as like as two pears.
+　　\nShe is in good health.
+　　\nIt is getting dark.
+　　\nThe machine is out of order.</string>
+    <string name="s2">2.主—动(SV)结构。
+　　\n此种结构中的动词一般是不及物动词,在这种句型中,状语并非是结构上不可或缺的成分。例如:
+　　\nHe lives in Shanghai.
+　　\nWe get up early every day.
+　　\nThe train leaves at eight.
+　　\nThey have been singing for half an hour.</string>
+    <string name="s3">3.主—动—宾结构(SVO)。
+　　\n此种结构中的动词都是及物动词,这类动词后面一般只跟一个宾语,因此也叫做单宾语及物动词(monotransitive verb),该句型一般不需状语成分即可表达完整思想。例如:
+　　\nShe is reading a novel.
+　　\nWe have realized the importance of English.
+　　\nThey are watching the football match.
+　　\nHe opened the door.</string>
+    <string name="s4">4.主—动—宾—宾(SVOO)结构。
+　　\n此种结构中的动词一般只限于某些双宾语及物动词(ditransitive verb),即能跟有间接宾语和直接宾语的及物动词。例如:
+　　\nHe taught us English last year.
+　　\nI call him a taxi.
+　　\nHe gave me an English book as a birthday present.
+　　\nI bought him a novel.</string>
+    <string name="s5">5.主—动—宾—补(SVOC)结构。
+　　\n此种结构中的动词只限于某些能带复合宾语的及物动词(complex transitive verbs),即只能跟有宾语和宾语补语的及物动词。例如:
+　　\nThey made him captain of the team.
+　　\nI find it impossible to finish the task in time.
+　　\nWe find the book very interesting.
+　　\nWe have proved the method very effective.</string>
+    <string name="s6">6.主—动—状结构(SVA)。
+　　\n此种结构中的状语不可缺。例如:
+　　\nThe radio is near his bed.
+　　\nThey are in the classroom.
+　　\nA number of students are in the library.
+　　\nThe tape recorder is on the desk.</string>
+    <string name="s7">7.主—动—宾状结构(SVOA)。
+　　\n此种结构中的状语不可缺。例如:
+　　\nShe put her baby in the cradle.
+　　\nThey watched TV in the drawing room.
+　　\nHe placed the pot on the stove.
+　　\nThey are talking about the film at the meeting.</string>
+    <string name="maker">杨航</string>
+    <string name="member">张帅琪\n陈立望\n易令\n何正大</string>
+    <string-array name="w">
+        <item>access </item>
+        <item>accommodation </item>
+        <item>acknowledgement </item>
+        <item>admiration </item>
+        <item>advocate </item>
+        <item>budget </item>
+        <item>capability</item>
+        <item>cash </item>
+        <item>circulation </item>
+        <item>commitment </item>
+        <item>compensation </item>
+        <item>consideration </item>
+        <item>constitution </item>
+        <item>consultant </item>
+        <item>controversy </item>
+        <item>damage </item>
+        <item>debate </item>
+        <item>hospitality </item>
+        <item>humor </item>
+        <item>illusion </item>
+    </string-array>
+    <string-array name="w2">
+        <item>n. 入口，通路，接触</item>
+        <item>n. 住宿，膳宿</item>
+        <item>n.承认，感谢，致谢</item>
+        <item>n. 欣赏</item>
+        <item>n. 提倡者，拥护者</item>
+        <item>n. 预算 </item>
+        <item>n. 能力，才能 </item>
+        <item>n. 现金 </item>
+        <item>n. （书报等的）发行量 </item>
+        <item>n. 承诺，许诺 </item>
+        <item>n. 补偿，赔偿</item>
+        <item>n. 考虑 </item>
+        <item>n. 组成，构成 </item>
+        <item>n. 顾问 </item>
+        <item>n. 争论，辩论 </item>
+        <item>n. 损坏 </item>
+        <item>n. 争论，辩论 </item>
+        <item>n. 友好款待，好客 </item>
+        <item>n. 情绪，心境 </item>
+        <item>n. 错觉，假象 </item>
+    </string-array>
+    <string-array name="wc2">
+        <item>prep. (在某方面)非……可及</item>
+        <item> v. 抛弃，放弃</item>
+        <item> v. 对……表示谢忱，报偿</item>
+        <item> v. 熟悉，认识</item>
+        <item> v. （靠自己的能力、努力或行为）获得</item>
+        <item>v. 付得 </item>
+        <item>v. 断言，宣称</item>
+        <item> v. 交替，轮流  </item>
+        <item> v. 预期  </item>
+        <item>v. 赞扬，称赞  </item>
+        <item>v. 上升，攀登 </item>
+        <item>v. 归因于，归功于 </item>
+        <item> v. 集合，聚集 </item>
+        <item>v. 分派，指派（职务，任务）</item>
+        <item>v. 归因于 </item>
+        <item>v. 建立在……的基础上 </item>
+        <item>v. 迷惑，弄糊涂 </item>
+        <item>v. 培育，养育  </item>
+        <item>v. 坚守，抱紧  </item>
+        <item>v. 相同，相一致  </item>
+    </string-array>
+    <string-array name="we2">
+        <item>beyond</item>>
+        <item>abandon</item>
+        <item>acknowledge</item>
+        <item>acquaint</item>
+        <item>acquire</item>
+        <item>afford</item>
+        <item>allege</item>
+        <item>alternate</item>
+        <item>anticipate</item>
+        <item>applaud</item>
+        <item>ascend</item>
+        <item>ascribe</item>
+        <item>assemble</item>
+        <item>assign</item>
+        <item>attribute</item>
+        <item>base</item>
+        <item>bewilder</item>
+        <item>breed</item>
+        <item>cling</item>
+        <item>coincide </item>
+    </string-array>
+    <string-array name="we3">
+        <item>deliberately </item>
+        <item>deliberately </item>
+        <item>exclusively </item>
+        <item>explicitly </item>
+        <item>forcibly </item>
+        <item>formerly</item>
+        <item>increasingly </item>
+        <item>inevitably  </item>
+        <item>intentionally </item>
+        <item>optimistically </item>
+        <item>outwardly </item>
+        <item>presumably </item>
+        <item>simultaneously </item>
+        <item>somewhat </item>
+        <item>spontaneously </item>
+        <item>startlingly </item>
+        <item>triumphantly </item>
+        <item>unexpectedly  </item>
+        <item>virtually </item>
+    </string-array>
+    <string-array name="we4">
+        <item>horse</item>
+        <item>mare</item>
+        <item>colt,foal</item>
+        <item>pony</item>
+        <item>thoroughbred</item>
+        <item>mustang</item>
+        <item>mule</item>
+        <item>ass,donkey</item>
+        <item>ox </item>
+        <item>buffalo</item>
+        <item>bull</item>
+        <item>cow </item>
+        <item>calf</item>
+        <item>bullock,steer</item>
+        <item>heifer</item>
+        <item>pig,swine</item>
+        <item>boar</item>
+        <item>hog</item>
+        <item>gilt</item>
+        <item>piglet</item>
+    </string-array>
+    <string-array name="we5">
+        <item>meat </item>
+        <item>beef </item>
+        <item>veal </item>
+        <item>lamb </item>
+        <item>sirloin </item>
+        <item>steak </item>
+        <item>chop </item>
+        <item>cutlet </item>
+        <item>stew </item>
+        <item>roast </item>
+        <item>pork</item>
+        <item>ham </item>
+        <item>bacon</item>
+        <item>sausage</item>
+        <item>chicken </item>
+        <item>turkey </item>
+        <item>duck </item>
+        <item>fish</item>
+        <item>vegetables</item>
+        <item>chips </item>
+    </string-array>
+    <string-array name="we6">
+        <item>pine </item>
+        <item>cerdar </item>
+        <item>larch </item>
+        <item>juniper </item>
+        <item>cone </item>
+        <item>cypress </item>
+        <item>bamboo </item>
+        <item>box </item>
+        <item>poplar </item>
+        <item>cottonwood </item>
+        <item>osier </item>
+        <item>willow </item>
+        <item>birch </item>
+        <item>maple </item>
+        <item>sequoia </item>
+        <item>fir </item>
+        <item>spruce </item>
+        <item>yew </item>
+        <item>eucalytus </item>
+        <item>locust </item>
+    </string-array>
+    <string-array name="we7">
+        <item>rose </item>
+        <item>tulip </item>
+        <item>balsam </item>
+        <item>canna</item>
+        <item>lily </item>
+        <item>jasmine </item>
+        <item>sweet pea </item>
+        <item>sunflower </item>
+        <item>geranium </item>
+        <item>morning-glory </item>
+        <item>cosmos </item>
+        <item>pansy </item>
+        <item>poppy </item>
+        <item>marigold </item>
+        <item>carnation </item>
+        <item>amaryllis </item>
+        <item>dahlia </item>
+        <item>pink </item>
+        <item>crocus </item>
+        <item>iris </item>
+    </string-array>
+
+    <string-array name="wc3">
+        <item>ad. 故意，有意地 </item>
+        <item>ad. 深思熟虑地，审慎地 </item>
+        <item>ad. 仅仅地 </item>
+        <item>ad. 明确地 </item>
+        <item>ad. 强行地，有力地 </item>
+        <item>ad. 原先地，以前，从前 </item>
+        <item>ad. 日益，越来越多地 </item>
+        <item>ad. 必然地，不可避免地</item>
+        <item>ad. 有意地，故意地 </item>
+        <item>ad. 乐观地 </item>
+        <item>ad. 表面上，外表上地 </item>
+        <item>ad. 大概，可能，据推测 </item>
+        <item>ad. 同时发生地 </item>
+        <item>ad. 颇为，稍稍，有几分 </item>
+        <item>ad. 自发地，自然产生地 </item>
+        <item>ad. 惊人地 </item>
+        <item>ad. （欣喜）胜利地，成功地 </item>
+        <item>ad. 意外地</item>
+        <item>ad. 事实上，实际地 </item>
+    </string-array>
+    <string-array name="wc4">
+        <item>马 </item>
+        <item>母马 </item>
+        <item>马驹,小马 </item>
+        <item>矮马 </item>
+        <item>纯种马 </item>
+        <item>野马  </item>
+        <item>骡  </item>
+        <item>驴  </item>
+        <item>牛 </item>
+        <item>水牛 </item>
+        <item>公牛 </item>
+        <item>母牛 </item>
+        <item>小牛,牛犊 </item>
+        <item>小阉牛 </item>
+        <item>小母牛 </item>
+        <item>猪 </item>
+        <item>种猪 </item>
+        <item>阉猪,肥猪  </item>
+        <item>小母猪  </item>
+        <item>猪崽  </item>
+    </string-array>
+    <string-array name="wc5">
+        <item>肉 </item>
+        <item>牛肉 </item>
+        <item>小牛肉 </item>
+        <item>羊肉 </item>
+        <item>牛脊肉 </item>
+        <item>牛排 </item>
+        <item>连骨肉,排骨 </item>
+        <item>肉条 </item>
+        <item>炖肉</item>
+        <item>烤肉 </item>
+        <item> 猪肉 </item>
+        <item>火腿 </item>
+        <item> 咸肉</item>
+        <item>香肠</item>
+        <item>鸡 </item>
+        <item>火鸡 </item>
+        <item>鸭</item>
+        <item> 鱼  </item>
+        <item> 蔬菜 </item>
+        <item> 炸薯条,炸土豆片 </item>
+    </string-array>
+    <string-array name="wc6">
+        <item>松 </item>
+        <item>雪松类 </item>
+        <item>落叶松 </item>
+        <item>杜松 </item>
+        <item>松果 </item>
+        <item>柏树 </item>
+        <item>竹 </item>
+        <item>黄杨 </item>
+        <item>白杨</item>
+        <item>三角叶杨 </item>
+        <item> 紫皮柳树 </item>
+        <item>垂柳 </item>
+        <item> 白桦</item>
+        <item>枫树</item>
+        <item>红杉 </item>
+        <item>冷杉 </item>
+        <item>云杉</item>
+        <item>紫杉  </item>
+        <item>桉树 </item>
+        <item> 洋槐 </item>
+    </string-array>
+    <string-array name="wc7">
+        <item>玫瑰花</item>
+        <item>郁金香 </item>
+        <item>凤仙花 </item>
+        <item> 美人蕉 </item>
+        <item>百合花 </item>
+        <item>茉莉 </item>
+        <item>香豌豆花 </item>
+        <item>向日葵 </item>
+        <item>大竺葵</item>
+        <item>牵牛花</item>
+        <item> 大波斯菊 </item>
+        <item>三色堇 </item>
+        <item> 罂粟花</item>
+        <item>金盏花</item>
+        <item>麝香石竹 </item>
+        <item>孤挺花</item>
+        <item>大丽花</item>
+        <item>石竹花  </item>
+        <item>番红花</item>
+        <item>蝴蝶花 </item>
+    </string-array>
+</resources>
